@@ -1,0 +1,5 @@
+com/sykj/learning/basicweb/book/persistence/BookMapper.class
+com/sykj/learning/basicweb/book/service/BookServiceImpl.class
+com/sykj/learning/basicweb/book/model/Book.class
+com/sykj/learning/basicweb/book/service/BookService.class
+com/sykj/learning/basicweb/IndexController.class
